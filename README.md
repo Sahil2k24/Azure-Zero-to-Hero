@@ -1,4 +1,4 @@
-# Azure Material
+# Azure Study Material
 
 ## Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
 - What is cloud ?
