@@ -1,5 +1,7 @@
 # 🌟 Azure Series – Learn & Master Azure 🚀  
 
+![image](https://github.com/user-attachments/assets/2c121ae0-ff6e-4fd4-b300-94b52d7cdbcd)
+
 Welcome to the **Azure Series**, where I dive deep into Microsoft Azure, covering everything from fundamentals to advanced DevOps and cloud-native practices. Each week, I explore a new topic to help DevOps engineers, cloud practitioners, and developers build expertise in Azure.  
 
 ## 📌 Weekly Topics Covered  
