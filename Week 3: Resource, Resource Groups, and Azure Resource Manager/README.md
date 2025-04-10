@@ -1,5 +1,7 @@
 # 🌐 Azure Series – Week 3: Resources, Resource Groups, and Azure Resource Manager (ARM) 🚀
 
+![image](https://github.com/user-attachments/assets/55b45eda-f31f-4f11-85b7-4ab7b830c39b)
+
 Welcome to **Week 3** of my Azure learning series! This week’s focus was on understanding three foundational concepts in Microsoft Azure that every cloud enthusiast, DevOps engineer, or aspiring cloud professional must know: **Resources**, **Resource Groups**, and the **Azure Resource Manager (ARM)**.
 
 These components are essential for organizing, managing, securing, and scaling resources in a structured and efficient way in the Azure ecosystem.
