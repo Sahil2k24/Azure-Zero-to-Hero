@@ -137,19 +137,4 @@ If you found this helpful, feel free to:
 `#Azure #DevOps #Jenkins #CloudComputing #AzureVM #Automation #Kubernetes #DevOpsJourney`
 
 ---
-
-📁 **Repository Structure (Optional)**
-
-```
-.
-├── README.md
-├── scripts
-│   └── install-jenkins.sh
-├── docs
-│   └── vm-types-overview.md
-└── screenshots
-    └── jenkins-deployment.png
-```
-
----
 ```
